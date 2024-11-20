@@ -1,0 +1,212 @@
+[
+    {
+        "title": "WebStorm 2024.3 est disponible :  prise en charge intégrée des outils de base de données et de SQL, saisie semi-automatique de code générée par IA, et bien plus",
+        "link": "https://jetbrains.developpez.com/actu/364708/WebStorm-2024-3-est-disponible-prise-en-charge-integree-des-outils-de-base-de-donnees-et-de-SQL-saisie-semi-automatique-de-code-generee-par-IA-et-bien-plus/",
+        "published": "Thu, 14 Nov 2024 15:45:00 +0100",
+        "summary": "<b>WebStorm 2024.3 est disponible</b><br />\n<b>Prise en charge intégrée des outils de base de données et de SQL, saisie semi-automatique de code générée par IA, et bien plus</b><br /><br />WebStorm 2024.3, la troisième mise à jour majeure de l'année de l'EDI de JetBrains pour les développeurs JavaScript, est disponible, avec un bon lot de nouvelles fonctionnalités et améliorations. Cette version résout plusieurs problèmes persistants et affine des fonctionnalités introduites précédemment. Ses principales améliorations concernent..."
+    },
+    {
+        "title": "Invasion silencieuse : des centaines de bibliothèques malveillantes publiées sur NPM tentent d'installer des malwares sur les machines des développeurs pour infiltrer les entreprises",
+        "link": "https://securite.developpez.com/actu/364442/Invasion-silencieuse-des-centaines-de-bibliotheques-malveillantes-publiees-sur-NPM-tentent-d-installer-des-malwares-sur-les-machines-des-developpeurs-pour-infiltrer-les-entreprises/",
+        "published": "Wed, 06 Nov 2024 16:43:00 +0100",
+        "summary": "<b>Invasion silencieuse : des centaines de bibliothèques malveillantes publiées sur NPM tentent d'installer des malware sur les machines des développeurs</b><br />\n<b>pour infiltrer les entreprises      </b><br /><br /><b>Depuis quelques années, les attaques de type &quot;supply chain&quot; ou chaîne d'approvisionnement sont devenues un sujet de préoccupation croissant pour les développeurs et les responsables de la sécurité informatique. Une nouvelle vague de logiciels malveillants a récemment ciblé le registre Node Package Manager...</b>"
+    },
+    {
+        "title": "Claude, le chatbot IA d'Anthropic, peut désormais écrire et exécuter du code JavaScript. L'entreprise a lancé un nouvel outil d'analyse qui permet à Claude d'analyser des ensembles de données divers",
+        "link": "https://intelligence-artificielle.developpez.com/actu/364213/Claude-le-chatbot-IA-d-Anthropic-peut-desormais-ecrire-et-executer-du-code-JavaScript-L-entreprise-a-lance-un-nouvel-outil-d-analyse-qui-permet-a-Claude-d-analyser-des-ensembles-de-donnees-divers/",
+        "published": "Mon, 28 Oct 2024 18:19:00 +0100",
+        "summary": "<b>Claude, le chatbot IA d'Anthropic, peut désormais écrire et exécuter du code JavaScript.</b><br />\n<b>L'entreprise a lancé un nouvel outil d'analyse qui permet à Claude d'analyser des ensembles de données divers et itérer sur différents scénarios   </b><br /><br /><b>Le chatbot Claude d'Anthropic peut désormais écrire et exécuter du code JavaScript. Anthropic a lancé un nouvel outil d'analyse qui aide Claude à répondre avec ce que l'entreprise décrit comme des « réponses mathématiquement précises et reproductibles ». Lorsque...</b>"
+    },
+    {
+        "title": "Les EDI de JetBrains WebStorm et Rider sont désormais gratuits pour une utilisation non commerciale",
+        "link": "https://jetbrains.developpez.com/actu/364145/Les-EDI-de-JetBrains-WebStorm-et-Rider-sont-desormais-gratuits-pour-une-utilisation-non-commerciale/",
+        "published": "Fri, 25 Oct 2024 16:45:00 +0200",
+        "summary": ""
+    },
+    {
+        "title": "Sortie de la version 5 de Svelte : cette version est le résultat de la réécriture complète du framework JavaScript pour le rendre plus rapide, plus facile à utiliser et plus robuste",
+        "link": "https://javascript.developpez.com/actu/363972/Sortie-de-la-version-5-de-Svelte-cette-version-est-le-resultat-de-la-reecriture-complete-du-framework-JavaScript-pour-le-rendre-plus-rapide-plus-facile-a-utiliser-et-plus-robuste/",
+        "published": "Mon, 21 Oct 2024 14:12:00 +0200",
+        "summary": "<b>Sortie de la version 5 de Svelte : cette version est le résultat de la réécriture complète du framework JavaScript pour le rendre plus rapide, plus facile à utiliser et plus robuste</b><br /><br />La version 5 de Svelte est maintenant disponible. Cette version est le résultat de la réécriture complète du framework JavaScript pour le rendre plus rapide, plus facile à utiliser et plus robuste.<br /><br />Svelte est une nouvelle façon de construire des applications web. C'est un compilateur qui prend vos composants déclaratifs..."
+    },
+    {
+        "title": "Exécuter des programmes C dans le navigateur en utilisant le runtime WebAssembly, &quot;une étape majeure pour faire fonctionner n'importe quel logiciel avec WebAssembly&quot;, d'après Wasmer",
+        "link": "https://c.developpez.com/actu/363756/Executer-des-programmes-C-dans-le-navigateur-en-utilisant-le-runtime-WebAssembly-une-etape-majeure-pour-faire-fonctionner-n-importe-quel-logiciel-avec-WebAssembly-d-apres-Wasmer/",
+        "published": "Mon, 14 Oct 2024 13:40:00 +0200",
+        "summary": "<b>Exécuter Clang dans le navigateur en utilisant le runtime WebAssembly, &quot;une étape majeure pour faire fonctionner n'importe quel logiciel avec WebAssembly&quot;, d'après Syrus Akbary Fondateur de Wasmer</b><br /><br /><b>Syrus Akbary, Fondateur de Wasmer, présente comment compiler des programmes C directement à partir de JavaScript ou de n'importe quel navigateur (Chrome, Firefox, Safari) en utilisant WebAssembly (sous licence MIT). Il partage également les capacités du SDK Wasmer JS.</b><br /><br />Le langage C est un langage..."
+    },
+    {
+        "title": "&quot;Oracle, il est temps de libérer JavaScript. Vous avez depuis longtemps abandonné la marque JavaScript, ce qui provoque une confusion généralisée et injustifiée&quot;, d'après la lettre de pétition",
+        "link": "https://javascript.developpez.com/actu/362764/-Oracle-il-est-temps-de-liberer-JavaScript-Vous-avez-depuis-longtemps-abandonne-la-marque-JavaScript-ce-qui-provoque-une-confusion-generalisee-et-injustifiee-d-apres-la-lettre-de-petition/",
+        "published": "Tue, 17 Sep 2024 15:50:00 +0200",
+        "summary": "<b>&quot;Oracle, il est temps de libérer JavaScript. Vous avez depuis longtemps abandonné la marque JavaScript, ce qui provoque une confusion généralisée et injustifiée&quot;, d'après la lettre de pétition</b> <br /><br /><b>Depuis longtemps, la marque JavaScript fait sujet à débat entre la communauté JavaScript et l'entreprise Oracle. Dans une nouvelle lettre de pétition, la communauté JavaScript demande à l'entreprise de libérer la marque, car Oracle aurait déjà montré qu'elle a abandonné la marque. Sans retour de...</b>"
+    },
+    {
+        "title": "« L'utilisation incessante de frameworks JavaScript de pointe a contribué à rendre le Web moins accessible », d'après Easy Laptop Finder selon lequel ces derniers détruisent les performances des sites Web",
+        "link": "https://javascript.developpez.com/actu/361633/-L-utilisation-incessante-de-frameworks-JavaScript-de-pointe-a-contribue-a-rendre-le-Web-moins-accessible-d-apres-Easy-Laptop-Finder-selon-lequel-ces-derniers-detruisent-les-performances-des-sites-Web/",
+        "published": "Sat, 17 Aug 2024 09:54:00 +0200",
+        "summary": "<b>« L'utilisation incessante de frameworks JavaScript de pointe a contribué à rendre le Web moins accessible », d'après Easy Laptop Finder</b><br />\n<b>Selon lequel ces derniers détruisent les performances des sites Web</b><br /><br /><b>Le langage JavaScript (JS) est présent sur tous les sites Internet au travers de divers frameworks dont se servent les développeurs Web. Cela vient néanmoins avec un coût étant donné que ce langage s'exécute côté client (sur le PC de l'internaute) : la lourdeur des sites qui découle de l'utilisation...</b>"
+    },
+    {
+        "title": "WebStorm 2024.2 est disponible : prise en charge améliorée du routage basé sur le système de fichiers, débogage pour Bun, exécution directe des fichiers TypeScript, et bien plus",
+        "link": "https://jetbrains.developpez.com/actu/361472/WebStorm-2024-2-est-disponible-prise-en-charge-amelioree-du-routage-base-sur-le-systeme-de-fichiers-debogage-pour-Bun-execution-directe-des-fichiers-TypeScript-et-bien-plus/",
+        "published": "Wed, 14 Aug 2024 14:30:00 +0200",
+        "summary": ""
+    },
+    {
+        "title": "70% des nouveaux paquets NPM au cours des 6 derniers mois étaient des spams, une équipe de chercheurs a révélé la prolifération de paquets de spam sur npm associés au protocole Tea qui promet des récompenses",
+        "link": "https://securite.developpez.com/actu/361269/70-pourcent-des-nouveaux-paquets-NPM-au-cours-des-6-derniers-mois-etaient-des-spams-une-equipe-de-chercheurs-a-revele-la-proliferation-de-paquets-de-spam-sur-npm-associes-au-protocole-Tea-qui-promet-des-recompenses/",
+        "published": "Fri, 09 Aug 2024 12:22:00 +0200",
+        "summary": "<b>70% des nouveaux paquets NPM au cours des 6 derniers mois étaient des spams,</b><br />\n<b>une équipe de chercheurs a révélé la prolifération de paquets de spam sur npm associés au protocole Tea qui promet des récompenses en crypto   </b><br /><br /><b>En avril, l'équipe de recherche de Phylum a révélé la prolifération de paquets de spam sur npm associés au protocole Tea. Ce protocole décentralisé promet de récompenser les développeurs de logiciels en cryptomonnaie pour leurs contributions open-source.  Fin juillet, dans son rapport...</b>"
+    },
+    {
+        "title": "OpenAI introduit des sorties structurées dans son API, ce qui garantit que les sorties du modèle adhèrent de manière fiable aux schémas JSON fournis par le développeur",
+        "link": "https://intelligence-artificielle.developpez.com/actu/361197/OpenAI-introduit-des-sorties-structurees-dans-son-API-ce-qui-garantit-que-les-sorties-du-modele-adherent-de-maniere-fiable-aux-schemas-JSON-fournis-par-le-developpeur/",
+        "published": "Wed, 07 Aug 2024 17:58:00 +0200",
+        "summary": "<b>OpenAI introduit des sorties structurées dans son API, ce qui garantit que les sorties du modèle adhèrent de manière fiable aux schémas JSON fournis par le développeur.</b><br /><br /><b>OpenAI introduit des sorties structurées dans son API, une nouvelle fonctionnalité conçue pour garantir que les sorties générées par le modèle correspondent exactement aux schémas JSON fournis par les développeurs. Mais les sorties structurées n'autorisent qu'un sous-ensemble de schémas JSON.</b><br /><br />Connue pour son grand modèle de langage..."
+    },
+    {
+        "title": "« Nous devons arrêter d'utiliser JavaScript », lance Douglas Crockford, le créateur de JSON dont la sortie suggère que le langage est devenu une usine à gaz après une trentaine d'années d'existence",
+        "link": "https://javascript.developpez.com/actu/361166/-Nous-devons-arreter-d-utiliser-JavaScript-lance-Douglas-Crockford-le-createur-de-JSON-dont-la-sortie-suggere-que-le-langage-est-devenu-une-usine-a-gaz-apres-une-trentaine-d-annees-d-existence/",
+        "published": "Wed, 07 Aug 2024 04:46:00 +0200",
+        "summary": "<b>« Nous devons arrêter d'utiliser JavaScript », lance Douglas Crockford, le créateur de JSON</b><br />\n<b>Dont la sortie suggère que le langage est devenu une usine à gaz après une trentaine d'années d'existence</b><br /><br /><b>Le langage JavaScript (JS) est présent sur tous les sites Internet et permet de rendre l'expérience utilisateur la plus agréable possible sur divers pans. Cela vient néanmoins avec un coût étant donné que ce langage s'exécute côté client (sur le PC de l'internaute) : la lenteur des sites qui découle de...</b>"
+    },
+    {
+        "title": "Node.js ajoute un support expérimental pour TypeScript. La fonctionnalité nécessite d'utiliser un package tiers tel que TSX, car elle ne réalise pas de vérification de type",
+        "link": "https://typescript.developpez.com/actu/360743/Node-js-ajoute-un-support-experimental-pour-TypeScript-La-fonctionnalite-necessite-d-utiliser-un-package-tiers-tel-que-TSX-car-elle-ne-realise-pas-de-verification-de-type/",
+        "published": "Fri, 26 Jul 2024 17:52:00 +0200",
+        "summary": "<b>Node.js ajoute un support expérimental pour TypeScript. La fonctionnalité nécessite d'utiliser un package tiers tel que tsx,</b><br />\n<b>car le support léger de TypeScript dans Node.js ne réalise pas de vérification de type</b><br /><br /><b>Le projet Node.js a récemment introduit un support expérimental pour TypeScript, activé via le drapeau --experimental-strip-types. Cette fonctionnalité permet aux développeurs d'exécuter directement des fichiers TypeScript dans Node.js en supprimant les annotations de type. Auparavant, les...</b>"
+    },
+    {
+        "title": "Boosté par les recommandations de la Maison Blanche, Rust atteint sa plus haute position dans l'indice TIOBE, se classant à la 13e place. Il est rentré dans le top 20 pour la première fois en juin 2020",
+        "link": "https://programmation.developpez.com/actu/360250/Booste-par-les-recommandations-de-la-Maison-Blanche-Rust-atteint-sa-plus-haute-position-dans-l-indice-TIOBE-se-classant-a-la-13e-place-Il-est-rentre-dans-le-top-20-pour-la-premiere-fois-en-juin-2020/",
+        "published": "Sun, 14 Jul 2024 20:44:00 +0200",
+        "summary": "<b>Boosté par les recommandations de la Maison Blanche, Rust atteint la plus haute position de son histoire dans l'indice TIOBE, se classant à la 13e place.</b><br />\n<b>le langage est rentré dans le top 20 pour la première fois en juin 2020    </b><br /><br /><b>Le langage de programmation Rust a récemment atteint sa plus haute position dans l'indice mensuel Tiobe, se classant à la 13ème place ce mois-ci. C'est la première fois que Rust dépasse la 17ème place dans cet indice. Le langage est rentré dans le top 20 pour la première...</b>"
+    },
+    {
+        "title": "Google Chrome, Microsoft Edge et Brave contiennent une extension cachée par défaut qui permet au code sur *.google.com d'accéder à des API privées, y compris des informations sur l'utilisation du processeur",
+        "link": "https://web.developpez.com/actu/360197/Google-Chrome-Microsoft-Edge-et-Brave-contiennent-une-extension-cachee-par-defaut-qui-permet-au-code-sur-etoile-google-com-d-acceder-a-des-API-privees-y-compris-des-informations-sur-l-utilisation-du-processeur/",
+        "published": "Thu, 11 Jul 2024 18:08:00 +0200",
+        "summary": "<b>Google Chrome, Microsoft Edge et Brave contiennent une extension cachée par défaut qui permet au code sur *.google.com d'accéder à des API privées,</b><br />\n<b>y compris des informations sur l'utilisation du processeur   </b><br /><br /><b>Google Chrome, le navigateur Web populaire, est utilisé par des millions de personnes à travers le monde. Cependant, récemment, une découverte intrigante a été faite concernant une extension cachée dans Chrome qui permet l'accès à des API privées, y compris des informations sur l'utilisation...</b>"
+    },
+    {
+        "title": "React 19 : une modification de la façon dont Suspense gère les requêtes en parallèle, pourrait potentiellement dégrader de manière significative la performance de nombreux sites web qui s'appuient sur React",
+        "link": "https://javascript.developpez.com/actu/359323/React-19-une-modification-de-la-facon-dont-Suspense-gere-les-requetes-en-parallele-pourrait-potentiellement-degrader-de-maniere-significative-la-performance-de-nombreux-sites-web-qui-s-appuient-sur-React/",
+        "published": "Tue, 18 Jun 2024 19:54:00 +0200",
+        "summary": "<b>React 19 : une modification de la façon dont Suspense gère les requêtes en parallèle,</b><br />\n<b>pourrait potentiellement dégrader de manière significative la performance de nombreux sites web qui s'appuient sur React    </b><br /><br /><b>React 19 a introduit plusieurs nouvelles fonctionnalités et améliorations, mais certaines d'entre elles ont été accueillies avec scepticisme. Par exemple, la suppression d'une fonctionnalité liée à Suspense a entraîné des états de chargement instantanés, ce qui a provoqué un effet cascade...</b>"
+    },
+    {
+        "title": "Microsoft annonce la disponibilité en Public Preview de la bibliothèque Microsoft AI Chat Protocol pour JavaScript, permettant aux développeurs de diffuser les réponses du backend d'IA dans leurs applications",
+        "link": "https://microsoft.developpez.com/actu/359235/Microsoft-annonce-la-disponibilite-en-Public-Preview-de-la-bibliotheque-Microsoft-AI-Chat-Protocol-pour-JavaScript-permettant-aux-developpeurs-de-diffuser-les-reponses-du-backend-d-IA-dans-leurs-applications/",
+        "published": "Mon, 17 Jun 2024 15:08:00 +0200",
+        "summary": "<b>Microsoft annonce la disponibilité en Public Preview de la bibliothèque Microsoft AI Chat Protocol pour JavaScript, permettant aux développeurs de diffuser les réponses du backend d'IA dans leurs applications</b><br /><br /><b>Microsoft annonce la disponibilité en avant-première publique de la bibliothèque Microsoft AI Chat Protocol pour la construction de frontaux alimentés par l'IA en JavaScript. La bibliothèque et la spécification API correspondante sont disponibles sur GitHub.</b><br /><br />L'IA est au premier plan des dernières..."
+    },
+    {
+        "title": "Enquête Developer Nation : Rust est le langage de programmation qui connaît la croissance la plus rapide, sa communauté de développeurs ayant doublé de taille au cours des deux dernières années",
+        "link": "https://rust.developpez.com/actu/358903/Enquete-Developer-Nation-Rust-est-le-langage-de-programmation-qui-connait-la-croissance-la-plus-rapide-sa-communaute-de-developpeurs-ayant-double-de-taille-au-cours-des-deux-dernieres-annees/",
+        "published": "Sun, 09 Jun 2024 15:52:00 +0200",
+        "summary": "<b>Enquête Developer Nation : Rust est le langage de programmation qui connaît la croissance la plus rapide,</b><br />\n<b>sa communauté de développeurs ayant doublé de taille au cours des deux dernières années   </b><br /><br /><b>Rust est le langage de programmation qui connaît la plus forte croissance, sa communauté de développeurs ayant doublé de taille au cours des deux dernières années, mais JavaScript reste le langage le plus populaire avec 25,2 millions de développeurs actifs, selon les résultats d'une récente enquête. La...</b>"
+    },
+    {
+        "title": "JetBrains dévoile la feuille de route de WebStorm 2024.2 : un aperçu de ce qui vous attend dans la prochaine version majeure de l'EDI JavaScript",
+        "link": "https://jetbrains.developpez.com/actu/358690/JetBrains-devoile-la-feuille-de-route-de-WebStorm-2024-2-un-apercu-de-ce-qui-vous-attend-dans-la-prochaine-version-majeure-de-l-EDI-JavaScript/",
+        "published": "Wed, 05 Jun 2024 09:33:00 +0200",
+        "summary": "<b>JetBrains dévoile la feuille de route de WebStorm 2024.2 :</b><br />\n<b>Un aperçu de ce qui vous attend dans la prochaine version majeure de l'EDI JavaScript</b><br /><br />Début avril, JetBrains a publié WebStorm 2024.1, la première mise à jour majeure de cette année pour son EDI JavaScript. Cette version est venue avec un bon lot de nouvelles fonctionnalités et améliorations. Parmi celles-ci, on peut citer les lignes épinglées dans l'éditeur, des améliorations pour la documentation rapide, la saisie semi-automatique de code..."
+    },
+    {
+        "title": "Meta publie React Compiler, un compilateur open source pour React, afin d'optimiser le code pour la performance, Meta a déjà utilisé le compilateur depuis plus d'un an",
+        "link": "https://javascript.developpez.com/actu/358126/Meta-publie-React-Compiler-un-compilateur-open-source-pour-React-afin-d-optimiser-le-code-pour-la-performance-Meta-a-deja-utilise-le-compilateur-depuis-plus-d-un-an/",
+        "published": "Wed, 22 May 2024 14:27:00 +0200",
+        "summary": "<b>Meta publie React Compiler, un compilateur open source pour React, afin d'optimiser le code pour la performance, Meta a déjà utilisé le compilateur depuis plus d'un an</b><br /><br /><b>Meta a publié React Compiler, un compilateur open source pour React lors de la React Conference, qui s'est tenue à Las Vegas et a été retransmise en direct. Joe Savona, membre de l'équipe React de Meta et ingénieur en interface utilisateur, a déclaré que l'équipe avait développé le compilateur au cours des dernières années.</b><br /><br />React est..."
+    },
+    {
+        "title": "Les médecins du public montent au créneau, de nouvelles grèves annoncées - Medias24",
+        "link": "https://www.google.com/url?rct=j&sa=t&url=https://medias24.com/2024/11/19/les-medecins-du-public-montent-au-creneau-de-nouvelles-greves-annoncees/&ct=ga&cd=CAIyGmQ5Y2ExZDBiNDgwZTNiZGE6Y29tOmZyOlVT&usg=AOvVaw17Ex5u04RCmyWWBeij6Cth",
+        "published": "2024-11-20T09:41:51Z",
+        "summary": "<b>JavaScript</b> is disabled! Why you want to do so? Please enable <b>JavaScript</b> in your web browser! Le Syndicat indépendant des médecins du secteur&nbsp;..."
+    },
+    {
+        "title": "Safi : démantèlement d'un réseau d'immigration clandestine, 28 individus interpellés",
+        "link": "https://www.google.com/url?rct=j&sa=t&url=https://medias24.com/2024/11/19/safi-demantelement-dun-reseau-dimmigration-clandestine-28-individus-interpelles/&ct=ga&cd=CAIyGmQ5Y2ExZDBiNDgwZTNiZGE6Y29tOmZyOlVT&usg=AOvVaw3raHS-HkkNfbEUkHIOiChv",
+        "published": "2024-11-20T00:46:17Z",
+        "summary": "Quatre individus ont été interpellés. <b>JavaScript</b> is disabled! Why you want to do so? Please enable <b>JavaScript</b> in your web browser! Selon un&nbsp;..."
+    },
+    {
+        "title": "Les gains des jeux de hasard désormais soumis à l'IR par retenue à la source - Medias24",
+        "link": "https://www.google.com/url?rct=j&sa=t&url=https://medias24.com/2024/11/19/les-gains-des-jeux-de-hasard-desormais-soumis-a-lir-par-retenue-a-la-source/&ct=ga&cd=CAIyGmQ5Y2ExZDBiNDgwZTNiZGE6Y29tOmZyOlVT&usg=AOvVaw0szSKHti6068wp0jq6xMN9",
+        "published": "2024-11-19T21:18:55Z",
+        "summary": "Détails. <b>JavaScript</b> is disabled! Why you want to do so? Please enable <b>JavaScript</b> in your web browser! Les nouvelles dispositions incluent une&nbsp;..."
+    },
+    {
+        "title": "Une pétition pour révoquer Abdellatif Ouahbi - Médias24 numéro un de l'information ...",
+        "link": "https://www.google.com/url?rct=j&sa=t&url=https://medias24.com/2024/11/19/une-petition-pour-revoquer-abdellatif-ouahbi/&ct=ga&cd=CAIyGmQ5Y2ExZDBiNDgwZTNiZGE6Y29tOmZyOlVT&usg=AOvVaw2RMcq6zm7OL-OzW1FShnKF",
+        "published": "2024-11-19T20:44:00Z",
+        "summary": "<b>JavaScript</b> is disabled! Why you want to do so? Please enable <b>JavaScript</b> in your web browser! La récente condamnation du journaliste Hamid El&nbsp;..."
+    },
+    {
+        "title": "La protection du patrimoine au menu du prochain Conseil de gouvernement - Medias24",
+        "link": "https://www.google.com/url?rct=j&sa=t&url=https://medias24.com/2024/11/19/la-protection-du-patrimoine-au-menu-du-prochain-conseil-de-gouvernement/&ct=ga&cd=CAIyGmQ5Y2ExZDBiNDgwZTNiZGE6Y29tOmZyOlVT&usg=AOvVaw1JJbO2hMxb2vRMDcM7LCNk",
+        "published": "2024-11-19T20:31:20Z",
+        "summary": "<b>JavaScript</b> is disabled! Why you want to do so? Please enable <b>JavaScript</b> in your web browser! Au début de ses travaux, le Conseil examinera un&nbsp;..."
+    },
+    {
+        "title": "Coopération militaire : plus de 1.500 officiers étrangers formés au Maroc en 2024",
+        "link": "https://www.google.com/url?rct=j&sa=t&url=https://medias24.com/2024/11/19/cooperation-militaire-plus-de-1-500-officiers-etrangers-formes-au-maroc-en-2024/&ct=ga&cd=CAIyGmQ5Y2ExZDBiNDgwZTNiZGE6Y29tOmZyOlVT&usg=AOvVaw3RUfeMKZzMw4kuJ-MZ0yhl",
+        "published": "2024-11-19T19:19:31Z",
+        "summary": "<b>JavaScript</b> is disabled! Why you want to do so? Please enable <b>JavaScript</b> in your web browser! Selon Abdeltif Loudyi, qui présentait le budget&nbsp;..."
+    },
+    {
+        "title": "Avis public : Test national du système En Alerte prévu demain - News Releases",
+        "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.gov.nl.ca/releases/fr/2024/jps-fr/1119n06-2/&ct=ga&cd=CAIyGmQ5Y2ExZDBiNDgwZTNiZGE6Y29tOmZyOlVT&usg=AOvVaw2Agb2rb37H-7G5hXNapOla",
+        "published": "2024-11-19T18:08:10Z",
+        "summary": "Warning: It seems <b>JavaScript</b> is either disabled or not supported by your browser. Please enable <b>JavaScript</b> to improve your experience. Skip to&nbsp;..."
+    },
+    {
+        "title": "Réhabilitation de la gare routière d'Oulad Ziane : sept sociétés ont visité les lieux",
+        "link": "https://www.google.com/url?rct=j&sa=t&url=https://medias24.com/2024/11/19/rehabilitation-de-la-gare-routiere-doulad-ziane-sept-societes-ont-visite-les-lieux/&ct=ga&cd=CAIyGmQ5Y2ExZDBiNDgwZTNiZGE6Y29tOmZyOlVT&usg=AOvVaw3QDv2bfKKh9dljs4HjGIjO",
+        "published": "2024-11-19T17:30:06Z",
+        "summary": "<b>JavaScript</b> is disabled! &middot; Si vous voulez que l'information se rapproche de vous &middot; A lire aussi &middot; Sous la présidence de la Princesse Lalla Meryem, le&nbsp;..."
+    },
+    {
+        "title": "African Lion 2025 : tenue à Agadir de la réunion de planification principale - Medias24",
+        "link": "https://www.google.com/url?rct=j&sa=t&url=https://medias24.com/2024/11/19/african-lion-2025-tenue-a-agadir-de-la-reunion-de-planification-principale/&ct=ga&cd=CAIyGmQ5Y2ExZDBiNDgwZTNiZGE6Y29tOmZyOlVT&usg=AOvVaw1B1QJ3teUggBpUWMAo8tSw",
+        "published": "2024-11-19T16:45:28Z",
+        "summary": "<b>JavaScript</b> is disabled! Why you want to do so? Please enable <b>JavaScript</b> in your web browser! Durant cette réunion, les planificateurs nationaux et&nbsp;..."
+    },
+    {
+        "title": "Comité départemental « loup » - de nouvelles mesures adoptées",
+        "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.finistere.gouv.fr/Actualites/Comite-departemental-loup-de-nouvelles-mesures-adoptees&ct=ga&cd=CAIyGmQ5Y2ExZDBiNDgwZTNiZGE6Y29tOmZyOlVT&usg=AOvVaw3ME7p0sKvjBZDpsvDb2GxX",
+        "published": "2024-11-19T13:28:51Z",
+        "summary": "<b>Javascript</b> est desactivé dans votre navigateur. Aller au contenu; Aller au menu; Aller à la recherche. Préfet du Finistère. Rechercher Menu. Les&nbsp;..."
+    },
+    {
+        "title": "Maroc Hebdo toujours victime des cyberattaques algériennes contre son site - Medias24",
+        "link": "https://www.google.com/url?rct=j&sa=t&url=https://medias24.com/2024/11/19/maroc-hebdo-toujours-victime-des-cyberattaques-algeriennes-contre-son-site/&ct=ga&cd=CAIyGmQ5Y2ExZDBiNDgwZTNiZGE6Y29tOmZyOlVT&usg=AOvVaw0T3ykL73ZDc48Ge9SZfGLs",
+        "published": "2024-11-19T13:15:23Z",
+        "summary": "<b>JavaScript</b> is disabled! Why you want to do so? Please enable <b>JavaScript</b> in your web browser! &quot;Comme les lecteurs de Maroc Hebdo en sont déjà&nbsp;..."
+    },
+    {
+        "title": "El Jadida accueille le Salon international du bâtiment du 20 au 24 novembre - Medias24",
+        "link": "https://www.google.com/url?rct=j&sa=t&url=https://medias24.com/2024/11/19/el-jadida-accueille-le-salon-international-du-batiment-du-20-au-24-novembre/&ct=ga&cd=CAIyGmQ5Y2ExZDBiNDgwZTNiZGE6Y29tOmZyOlVT&usg=AOvVaw0DPlnP1r1XyeeRB8OUA2mz",
+        "published": "2024-11-19T12:23:11Z",
+        "summary": "<b>JavaScript</b> is disabled! Why you want to do so? Please enable <b>JavaScript</b> in your web browser! Organisé sur le thème &quot;Mise en œuvre maîtrisée&nbsp;..."
+    },
+    {
+        "title": "Oncorad Group établit un record mondial en chirurgie à distance - Medias24",
+        "link": "https://www.google.com/url?rct=j&sa=t&url=https://medias24.com/2024/11/19/oncorad-group-etablit-un-record-mondial-en-chirurgie-a-distance/&ct=ga&cd=CAIyGmQ5Y2ExZDBiNDgwZTNiZGE6Y29tOmZyOlVT&usg=AOvVaw0k1eFg6z0cV6H0A-OCED6G",
+        "published": "2024-11-19T10:46:22Z",
+        "summary": "<b>JavaScript</b> is disabled! Why you want to do so? Please enable <b>JavaScript</b> in your web browser! Cet exploit marque une étape décisive pour la&nbsp;..."
+    },
+    {
+        "title": "Oncorad Group accueille Dr Youness Ahallal, expert en chirurgie urologique robotisée",
+        "link": "https://www.google.com/url?rct=j&sa=t&url=https://medias24.com/2024/11/19/oncorad-group-accueille-dr-youness-ahallal-expert-en-chirurgie-urologique-robotisee/&ct=ga&cd=CAIyGmQ5Y2ExZDBiNDgwZTNiZGE6Y29tOmZyOlVT&usg=AOvVaw36mveC-ZHh9YVXP7woAxSK",
+        "published": "2024-11-19T10:36:26Z",
+        "summary": "<b>JavaScript</b> is disabled! Why you want to do so? Please enable <b>JavaScript</b> in your web browser! Expert en chirurgie robotique, Dr Ahallal apporte une&nbsp;..."
+    },
+    {
+        "title": "Enquête de satisfaction - Actualités - Les services de l'État en - finistere.gouv.fr",
+        "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.finistere.gouv.fr/Actualites/Enquete-de-satisfaction&ct=ga&cd=CAIyGmQ5Y2ExZDBiNDgwZTNiZGE6Y29tOmZyOlVT&usg=AOvVaw3EjWQvu3KPV2AdXUioYUOf",
+        "published": "2024-11-19T10:02:42Z",
+        "summary": "<b>Javascript</b> est desactivé dans votre navigateur. Aller au contenu; Aller au menu; Aller à la recherche. Préfet de la. Rechercher Menu. Les services de&nbsp;..."
+    }
+]
